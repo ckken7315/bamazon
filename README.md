@@ -16,4 +16,4 @@ To run the customer interface please follow the steps below:
 	node bamazonCustomer.js
 
 
-### You can quickly see the screenshots inside my github. All those inventory preivew, in, and out. So you can just directly see the reslts by those png.
+### You can quickly see the screenshots inside my github. All those inventoryIN, OUT.png. So you can just directly see the reslts by those png.
